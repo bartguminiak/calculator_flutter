@@ -1,0 +1,3 @@
+class DisplayContent {
+  String text = '';
+}
